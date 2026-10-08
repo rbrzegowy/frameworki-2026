@@ -11,7 +11,7 @@ Rozbudowanie listy restauracji o interakcję użytkownika i dynamiczne przetwarz
 Projekt z LAB 01.
 
 ---
-
+****
 ## Wymagania funkcjonalne
 
 ### FR-01. Wyszukiwanie
@@ -34,14 +34,14 @@ Lista powinna zawierać tylko restauracje pasujące do wyszukiwania.
 Użytkownik może wybrać rodzaj kuchni:
 
 ```text
-All
+Wszystkie
 Burger
 Pizza
 Sushi
-Asian
-Italian
-Polish
-Healthy
+Azja
+Włochy
+Polska debeściak
+Dietetyczna
 ```
 
 ---
@@ -51,8 +51,8 @@ Healthy
 Użytkownik może wybrać:
 
 ```text
-All
-Open only
+Wszystkie
+Czynne teraz
 ```
 
 ---
@@ -89,7 +89,7 @@ Przykład:
 
 ```text
 Search = "burger"
-Cuisine = All
+Cuisine = **All**
 Status = Open
 Sort = Rating
 ```
