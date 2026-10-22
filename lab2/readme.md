@@ -1,5 +1,5 @@
 # LAB 02 — Wyszukiwanie, filtrowanie i sortowanie
-
+Sandbox z konwersatoriów: [Repo z konwersatoriów](https://github.com/rbrzegowy/FoodApp-Angular---sandbox-do-konw)
 ## Cel
 
 Rozbudowanie listy restauracji o interakcję użytkownika i dynamiczne przetwarzanie danych.

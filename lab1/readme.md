@@ -109,6 +109,7 @@ type Restaurant {
   deliveryTimeMax: number;
   deliveryFee: number;
   minimumOrderValue: number;
+  address: string,
   isActive: boolean;
 }
 type CousineType = 'italian' | 'polish' | 'chinese' | 'thai' | 'american' // ...
