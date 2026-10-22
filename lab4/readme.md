@@ -1,5 +1,5 @@
 # LAB 04 — Panel administracyjny i CRUD
-
+Sandbox z konwersatoriów: [Repo z konwersatoriów](https://github.com/rbrzegowy/FoodApp-Angular---sandbox-do-konw)
 ## Cel
 
 Utworzenie pierwszej części panelu administracyjnego umożliwiającej zarządzanie danymi systemu.
