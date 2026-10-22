@@ -1,5 +1,7 @@
 # LAB 01 — Application Shell i restauracje
 
+Sandbox z konwersatoriów: [Repo z konwersatoriów](https://github.com/rbrzegowy/FoodApp-Angular---sandbox-do-konw)
+
 ## Cel
 
 Utworzenie podstawowej struktury aplikacji FoodApp oraz pierwszego widoku umożliwiającego przeglądanie restauracji.

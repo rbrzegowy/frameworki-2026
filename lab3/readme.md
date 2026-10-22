@@ -1,4 +1,5 @@
 # LAB 03 — Szczegóły restauracji i menu
+Sandbox z konwersatoriów: [Repo z konwersatoriów](https://github.com/rbrzegowy/FoodApp-Angular---sandbox-do-konw)
 
 ## Cel
 
