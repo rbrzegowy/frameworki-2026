@@ -100,7 +100,7 @@ Aplikacja powinna posiadać podstawowy footer - dane kontaktowe (mock)
 Model restauracji:
 
 ```ts
-type Restaurant {
+type Restaurant = {
   id: number;
   name: string;
   description: string;
